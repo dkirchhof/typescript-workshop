@@ -1,0 +1,9 @@
+{
+  "name": "typescript-workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.9.34"
+  }
+}
